@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-
+#include <stdio.h>
 /**
  * main Check last digit of a  number
  *
