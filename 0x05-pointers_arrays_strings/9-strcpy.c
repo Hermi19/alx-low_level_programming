@@ -2,10 +2,11 @@
 
 /**
  * _strcpy - copies the string pointed to by src
- * @src: This is the copia
- *
+ * @src: source
+ * @dest: destination
  * Return: the pointer to dest
  */
+
 char *_strcpy(char *dest, char *src)
 {
 	char *start = dest;
